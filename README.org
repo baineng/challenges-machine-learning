@@ -12,7 +12,7 @@ This project is mainly using for personal study. But still hope it can help othe
 
 *** How this project composed?
 
-It's composed by different sections, Each section will talk about a kind of Machine Learning scenarios, or algorithms, models, or even libraries.
+It's composed by different categories, Each category will talk about a kind of Machine Learning scenarios, algorithms, models, or even libraries.
 
 And most of them will be discribed by a ipython notebook with runnable code.
 
@@ -30,9 +30,9 @@ And most of them will be discribed by a ipython notebook with runnable code.
 
 ** Motivation
 
-This project is inspired by [[https://github.com/Avik-Jain/100-Days-Of-ML-Code][100-Days-Of-ML-Code]] and [[https://github.com/dennyzhang/challenges-kubernetes][challenges-kubernetes]], And manly using for self study.
+This project is inspired by [[https://github.com/Avik-Jain/100-Days-Of-ML-Code][100-Days-Of-ML-Code]] and [[https://github.com/dennyzhang/challenges-kubernetes][challenges-kubernetes]]
 
-I will try to cover more details compare to 100-Days-Of-ML-Code.
+Mainly for self study, I will be so glad if it helped others as well.
 
 ** License
 This project is under [[https://github.com/baineng/challenges-machine-learning/blob/master/LICENSE][MIT License]]
