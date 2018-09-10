@@ -22,10 +22,10 @@ And most of them will be discribed by a ipython notebook with runnable code.
 ***** 1.2 Panda
 ***** 1.3 Matplotlib
 ***** 1.4 ...
-**** 2. Linear Regression
+**** 2. Regression
 ***** 2.1 SImple Linear Regression
 ***** 2.2 Multiple Linear Regression
-**** 3. Logistic Regression
+***** 2.3 Logistic Regression
 **** 4. ...
 
 ** Motivation
