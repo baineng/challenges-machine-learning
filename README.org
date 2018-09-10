@@ -17,6 +17,14 @@ And most of them will be discribed by a ipython notebook with runnable code.
 * Catalog
 *** 1. Libraries
 **** 1.1 Numpy
+#+BEGIN_SRC php
+<?php
+echo 'abc';
+#+END_SRC
+
+#+RESULTS:
+: abc
+
 **** 1.2 Panda
 **** 1.3 Matplotlib
 **** 1.4 ...
